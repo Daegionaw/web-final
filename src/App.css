@@ -14,15 +14,16 @@
 }
 
 .social-media {
+    font-family: Perpetua;
 }
 
 .nav {
     height: 45px;
 
     background-color: #FF0000;
+    color: #000;
     display: flex;
     justify-content: space-evenly;
-    align-items: space evenly;
     word-spacing: 200px;
     text-align: center;
     flex-direction: row;
@@ -59,6 +60,7 @@
     background-color: #E1D6C7;
     justify-content: center;
     text-align: center;
+    font-family: Perpetua; 
 
     
 }
@@ -72,9 +74,12 @@
     background-color: #E1D6C7;
     justify-content: center;
     text-align: center;
+    font-family: Perpetua;
 
 }
 
 .home {
     word-spacing: 200px;
+    color: #000;
+
 }
