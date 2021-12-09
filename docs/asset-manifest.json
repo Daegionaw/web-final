@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/web-final/static/css/main.8841f084.chunk.css",
+    "main.css": "/web-final/static/css/main.642543ad.chunk.css",
     "main.js": "/web-final/static/js/main.41095b14.chunk.js",
     "main.js.map": "/web-final/static/js/main.41095b14.chunk.js.map",
     "runtime-main.js": "/web-final/static/js/runtime-main.f9d1e133.js",
@@ -10,7 +10,7 @@
     "static/js/3.36b2cb29.chunk.js": "/web-final/static/js/3.36b2cb29.chunk.js",
     "static/js/3.36b2cb29.chunk.js.map": "/web-final/static/js/3.36b2cb29.chunk.js.map",
     "index.html": "/web-final/index.html",
-    "static/css/main.8841f084.chunk.css.map": "/web-final/static/css/main.8841f084.chunk.css.map",
+    "static/css/main.642543ad.chunk.css.map": "/web-final/static/css/main.642543ad.chunk.css.map",
     "static/js/2.1ef34e39.chunk.js.LICENSE.txt": "/web-final/static/js/2.1ef34e39.chunk.js.LICENSE.txt",
     "static/media/AlissaEd.b905072e.jpg": "/web-final/static/media/AlissaEd.b905072e.jpg",
     "static/media/AvaEd.a23816dc.jpg": "/web-final/static/media/AvaEd.a23816dc.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.f9d1e133.js",
     "static/js/2.1ef34e39.chunk.js",
-    "static/css/main.8841f084.chunk.css",
+    "static/css/main.642543ad.chunk.css",
     "static/js/main.41095b14.chunk.js"
   ]
 }
