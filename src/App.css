@@ -24,11 +24,13 @@
     color: #000;
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
     word-spacing: 200px;
     text-align: center;
     flex-direction: row;
     font-family: impact;
     font-size: 24px;
+    margin-top: 10x;
 }
 
 .photos {
