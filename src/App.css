@@ -1,0 +1,80 @@
+.header {
+    height: 266px; 
+
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #E1D6C7;
+}
+
+.brand {
+    /* background-color: #0f0; */
+    height: 200px; 
+}
+
+.social-media {
+}
+
+.nav {
+    height: 45px;
+
+    background-color: #FF0000;
+    display: flex;
+    justify-content: center;
+    align-items: space evenly;
+    word-spacing: 200px;
+    text-align: center;
+    flex-direction: row;
+    font-family: impact;
+    font-size: 24px;
+}
+
+.photos {
+    background-color: #E1D6C7;
+}
+
+.Pic {
+    height: 69.41vh;
+
+}
+
+.Pic2 {
+    height: 69.41vh;
+
+}
+
+.Pic3 {
+    height: 69.42vh;
+}
+
+.almost {
+    background-color: #E1D6C7;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.footer {
+    background-color: #E1D6C7;
+    justify-content: center;
+    text-align: center;
+
+    
+}
+.brand2 {
+    height: 12vh;
+    justify-content: center;
+    
+}
+
+.bottom {
+    background-color: #E1D6C7;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.home {
+    word-spacing: 200px;
+}
